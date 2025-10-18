@@ -1,0 +1,12 @@
+{
+  "name": "space-events-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A sleek, responsive web application to track upcoming space events like launches, ISS passes, and meteor showers. Features a dark-space theme, search and filter functionality, and detailed event information in a modal view.",
+  "author": "Mugunth",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "license": "MIT"
+}

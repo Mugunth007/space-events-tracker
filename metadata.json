@@ -1,0 +1,5 @@
+{
+  "name": "Space Events Tracker",
+  "description": "A sleek, responsive web application to track upcoming space events like launches, ISS passes, and meteor showers. Features a dark-space theme, search and filter functionality, and detailed event information in a modal view.",
+  "requestFramePermissions": []
+}
